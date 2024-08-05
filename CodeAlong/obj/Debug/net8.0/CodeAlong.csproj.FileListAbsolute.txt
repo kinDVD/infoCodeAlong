@@ -1,0 +1,14 @@
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\bin\Debug\net8.0\CodeAlong.exe
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\bin\Debug\net8.0\CodeAlong.deps.json
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\bin\Debug\net8.0\CodeAlong.runtimeconfig.json
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\bin\Debug\net8.0\CodeAlong.dll
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\bin\Debug\net8.0\CodeAlong.pdb
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.AssemblyInfoInputs.cache
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.AssemblyInfo.cs
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.dll
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\refint\CodeAlong.dll
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.pdb
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\CodeAlong.genruntimeconfig.cache
+C:\Users\Test User\source\repos\CodeAlong\CodeAlong\obj\Debug\net8.0\ref\CodeAlong.dll
